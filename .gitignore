@@ -1,0 +1,22 @@
+/debug
+/target
+/resources
+/data
+/.vs
+
+Cargo.lock
+
+**/*.rs.bk
+
+*.pdb
+*.exe
+*.bin
+*.pgn
+/releases
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
